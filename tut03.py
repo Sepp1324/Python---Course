@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#/usr/bin/env python3
 
 print(2 < 3)
 print(2 - 3 + 4 > 5)
